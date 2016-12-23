@@ -8,6 +8,6 @@ int main(){
 	fPointer = fopen("collins.txt","w");
 	fprintf(fPointer,"I love MySelf\n");
 	fclose(fPointer);*/
-	
+	ff
 	return 0;
 }
