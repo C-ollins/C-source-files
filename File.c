@@ -4,8 +4,10 @@
 int main(){
 	
 	FILE * fPointer;
+	/*
 	fPointer = fopen("collins.txt","w");
 	fprintf(fPointer,"I love MySelf\n");
-	fclose(fPointer);
+	fclose(fPointer);*/
+	
 	return 0;
 }
